@@ -16,6 +16,8 @@
 4. git push origin main
 5. Hit refresh in the browser to see the result
 
-## Getting fancy
+## Undo things in Git
+
+0. 
 
 
