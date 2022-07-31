@@ -11,10 +11,10 @@
 
 0. git pull
 1. git status
-3. git add .
-4. git commit -m "Message explaining the commit" -m "This bit will go into the discription box"
-5. git push origin main
-6. Hit refresh in the browser to see the result
+2. git add .
+3. git commit -m "Message explaining the commit" -m "This bit will go into the discription box"
+4. git push origin main
+5. Hit refresh in the browser to see the result
 
 ## Getting fancy
 
