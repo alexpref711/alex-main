@@ -18,6 +18,7 @@
 
 ## Undo things in Git
 
-0. 
-
-
+0. To undo an add --> git reset
+1. To undo a commit --> git reset HEAD~1 (Remember to count from zero)
+2. To pull up the commit history --> git log
+3. Reset to point --> git reset 
